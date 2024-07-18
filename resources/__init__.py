@@ -1,0 +1,2 @@
+from resources.texts import welcome_message
+from resources.keyboards import keyboard_get_weather
